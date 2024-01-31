@@ -4,6 +4,7 @@ The Kucoin Ingestion of Symbols Services written in Rust.
 ## Overview
 
 KISS is a lightweight, real-time service for tracking cryptocurrency prices on KuCoin. It uses WebSockets to stream live price data, stores this data in InfluxDB for historical analysis, and provides a simple web interface to display live prices. Designed to run efficiently on Raspberry Pi, this project is ideal for personal use or for developers interested in cryptocurrency data.
+[Project](https://github.com/SmartEst74/KISS/projects)
 
 ## Features
 
@@ -84,7 +85,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Remember to replace placeholders like `https://github.com/yourusername/kucoin_tracker.git` with your actual repository URL and adjust any specific commands or URLs to match your project's setup and naming conventions. Also, ensure you include a `LICENSE` file in your repository if you reference it in the README.
 ```
-#AI Guidance
+# AI Guidance
 I'm relying heavily on AI to produce the service and I'm sharing my prompts below.
 
 ## Question
