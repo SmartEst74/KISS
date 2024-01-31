@@ -34,8 +34,8 @@ Install InfluxDB by following the instructions on the [InfluxData website](https
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kucoin_tracker.git
-cd kucoin_tracker
+git clone https://github.com/yourusernameSmartEst74/kISS.git
+cd KISS
 ```
 
 ### Install Dependencies
@@ -46,7 +46,7 @@ cargo build
 
 ## Usage
 
-To start the KuCoin Tracker service:
+To start the KISS service:
 
 ```bash
 cargo run
@@ -81,10 +81,7 @@ Contributions are welcome! Please open an issue to discuss proposed changes or s
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
-Remember to replace placeholders like `https://github.com/yourusername/kucoin_tracker.git` with your actual repository URL and adjust any specific commands or URLs to match your project's setup and naming conventions. Also, ensure you include a `LICENSE` file in your repository if you reference it in the README.
-```
 # AI Guidance
 I'm relying heavily on AI to produce the service and I'm sharing my prompts below.
 
